@@ -1,0 +1,8 @@
+Realizar una aplicación para reserva de instalaciones deportivas. Realizar un CRUD de instalaciones y otro de usuarios. Añadir roles
+admin: puede ver todas las instalaciones de la app
+owner: puede ver sus instalaciones
+user: sólo consultar las instalaciones
+
+Aplicar reglas de validación básicas en reservas (no reservar periodos ya reservados, hora de reserva de fin mayor que la de inicio, etc), usuarios (mínimo para contraseñas, mail (no es necesario meter un servidor de correos pero sería un punto extra), etc).
+
+Crear front web visual para usuarios finales y un pequeño panel de control para administradores (hay que tener en cuenta los roles).
